@@ -41,9 +41,11 @@ class StatisticsService:
 
         if sort_by.value == 1:
             key=sort_by_points
-        elif sort_by.value == 2:
+
+        if sort_by.value == 2:
             key=sort_by_goals
-        elif sort_by.value == 3:
+            
+        if sort_by.value == 3:
             key=sort_by_assists
         
         sorted_players = sorted(
