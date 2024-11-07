@@ -1,4 +1,5 @@
 # tehdään alussa importit
+# Muutos main-haarassa
 
 from logger import logger
 from summa import summa
