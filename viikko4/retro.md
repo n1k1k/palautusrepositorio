@@ -4,5 +4,3 @@ Glad, Sad, Mad - tekniikassa kategorioita on vain kolme. Ajatusten kirjaamiseen 
 
 Molemmissa tekniikoissa tiimin jäsenet kirjaavat kyseisiin kategoihin sopivia mielipiteitä, parannusehdotuksia tai hyvin menneitä asioita.
 
-1. Muutos tägi tehtävää varten
-2. Muutos
